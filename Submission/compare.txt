@@ -1,0 +1,1 @@
+The binary search ran much faster. This is due to the efficiency of BinarySearch compared to an inefficient LinearSearch

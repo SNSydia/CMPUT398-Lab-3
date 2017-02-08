@@ -12,7 +12,25 @@ __device__ int binarySearch(const int value, const int *A, const int N)
 	// the index where all values in A are less than
 	// the given value.
 
-	return 0;
+	int i = 0; int j = N - 1; int k = 0;
+
+	while (i <= j)
+	{
+		k = (i + j) / 2;
+
+		if (A[k] < value)
+			i = k + 1;
+		
+		else
+			j = k - 1;
+	}
+
+	if (i < N)
+		return i;
+	else
+	{
+		return N;
+	}
 }
 
 __device__ int linearSearch(const int value, const int *A, const int N)
@@ -24,11 +42,16 @@ __device__ int linearSearch(const int value, const int *A, const int N)
 	
 	for (i = 0; i < N; i++)
 	{
-		if (A[i] > value)
+		if (A[i] >= value)
 			break;
 	}
 
-	return i;
+	if (i < N)
+		return i;
+	else
+	{
+		return N;
+	}
 }
 
 __global__ void merge(int *C, const int *A, const int *B, const int N)
@@ -51,21 +74,14 @@ __global__ void merge(int *C, const int *A, const int *B, const int N)
 
 	if (i < N)
 	{
-		int j = linearSearch(A[i], B, N);
-		int k = linearSearch(B[i], A, N);
+		int j = binarySearch(A[i], B, N);
+		int k = binarySearch(B[i] + 1, A, N);
 			
 		
 		C[i + j] = A[i];
-		
-		while (A[i] == B[i])
-		{
-			k *= 2;
-		}
-		
 		C[i + k] = B[i];
-
 	}
-	//
+	// 
 	// Step 1:
 	// Find for each element in array A the index i that
 	// would A[i] be inserted in array B or in other 

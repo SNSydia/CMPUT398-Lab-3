@@ -1,0 +1,9 @@
+1. Binary search is called 2N times - one time for each input array.
+2. No, the searching algorithms are not designed to find the index where all values in X are less than the given value if the array is unsorted. Solutions would either be to sort the input arrays; or modify the merge algorithm in order to handle unsorted inputs. 
+3. Best case scenario is that the algorithm runs in O(N) in a CPU if the input is sorted and there are no intersections in the input.
+4. MergeSort can benefit from a parellel merging algorithm
+5. Yes, there is an issue. The issue is that if there are duplicate elements, then occasionally, A and B will try to put an element in the same location in C. we can fix this by not searching for the same value of element for A and B. 
+Eg:
+int j = binarySearch(A[i], B, N);
+int k = binarySearch(B[i] + 1, A, N);
+Will solve the problem.

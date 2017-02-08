@@ -378,7 +378,7 @@ c:\program files\nvidia gpu computing toolkit\cuda\v7.5\include\host_defines.h
 c:\program files\nvidia gpu computing toolkit\cuda\v7.5\include\vector_functions.h
 c:\program files\nvidia gpu computing toolkit\cuda\v7.5\include\device_launch_parameters.h
 c:\program files\nvidia gpu computing toolkit\cuda\v7.5\include\vector_types.h
-C:\Users\sydia\Desktop\Lab3\libwb/include\wb.h
+C:\Users\sydia\Desktop\CMPUT398-Lab-3\libwb/include\wb.h
 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h
 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\swprintf.inl
@@ -589,7 +589,7 @@ C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsvc.h
 C:\Program Files (x86)\Windows Kits\8.1\Include\um\mcx.h
 C:\Program Files (x86)\Windows Kits\8.1\Include\um\imm.h
 C:\Program Files (x86)\Windows Kits\8.1\Include\um\ime_cmodes.h
-c:\users\sydia\desktop\lab3\libwb\include\vendor/json11.hpp
+c:\users\sydia\desktop\cmput398-lab-3\libwb\include\vendor/json11.hpp
 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string
 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\iterator
 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\istream
@@ -667,17 +667,17 @@ C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\tuple
 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\memory
 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdint.h
 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
-c:\users\sydia\desktop\lab3\libwb\include\wbTypes.h
-c:\users\sydia\desktop\lab3\libwb\include\wbAssert.h
+c:\users\sydia\desktop\cmput398-lab-3\libwb\include\wbTypes.h
+c:\users\sydia\desktop\cmput398-lab-3\libwb\include\wbAssert.h
 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\assert.h
 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
-c:\users\sydia\desktop\lab3\libwb\include\wbMalloc.h
-c:\users\sydia\desktop\lab3\libwb\include\wbString.h
+c:\users\sydia\desktop\cmput398-lab-3\libwb\include\wbMalloc.h
+c:\users\sydia\desktop\cmput398-lab-3\libwb\include\wbString.h
 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\iostream
 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\sstream
-c:\users\sydia\desktop\lab3\libwb\include\wb.h
-c:\users\sydia\desktop\lab3\libwb\include\wbUtils.h
-c:\users\sydia\desktop\lab3\libwb\include\vendor/sole.hpp
+c:\users\sydia\desktop\cmput398-lab-3\libwb\include\wb.h
+c:\users\sydia\desktop\cmput398-lab-3\libwb\include\wbUtils.h
+c:\users\sydia\desktop\cmput398-lab-3\libwb\include\vendor/sole.hpp
 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\functional
 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xfunctional
 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\memory.h
@@ -707,29 +707,29 @@ C:\Program Files (x86)\Windows Kits\8.1\Include\shared\packoff.h
 C:\Program Files (x86)\Windows Kits\8.1\Include\um\iptypes.h
 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\tcpestats.h
 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\netioapi.h
-c:\users\sydia\desktop\lab3\libwb\include\wbArg.h
-c:\users\sydia\desktop\lab3\libwb\include\wbCUDA.h
-c:\users\sydia\desktop\lab3\libwb\include\wbCast.h
-c:\users\sydia\desktop\lab3\libwb\include\wbComparator.h
-c:\users\sydia\desktop\lab3\libwb\include\wb.h
-c:\users\sydia\desktop\lab3\libwb\include\wbDirectory.h
-c:\users\sydia\desktop\lab3\libwb\include\wbExit.h
-c:\users\sydia\desktop\lab3\libwb\include\wbExport.h
-c:\users\sydia\desktop\lab3\libwb\include\wb.h
-c:\users\sydia\desktop\lab3\libwb\include\wbFile.h
-c:\users\sydia\desktop\lab3\libwb\include\wbPPM.h
-c:\users\sydia\desktop\lab3\libwb\include\wbImage.h
-c:\users\sydia\desktop\lab3\libwb\include\wbImport.h
-c:\users\sydia\desktop\lab3\libwb\include\wbInit.h
-c:\users\sydia\desktop\lab3\libwb\include\wbLogger.h
-c:\users\sydia\desktop\lab3\libwb\include\wbMD5.h
+c:\users\sydia\desktop\cmput398-lab-3\libwb\include\wbArg.h
+c:\users\sydia\desktop\cmput398-lab-3\libwb\include\wbCUDA.h
+c:\users\sydia\desktop\cmput398-lab-3\libwb\include\wbCast.h
+c:\users\sydia\desktop\cmput398-lab-3\libwb\include\wbComparator.h
+c:\users\sydia\desktop\cmput398-lab-3\libwb\include\wb.h
+c:\users\sydia\desktop\cmput398-lab-3\libwb\include\wbDirectory.h
+c:\users\sydia\desktop\cmput398-lab-3\libwb\include\wbExit.h
+c:\users\sydia\desktop\cmput398-lab-3\libwb\include\wbExport.h
+c:\users\sydia\desktop\cmput398-lab-3\libwb\include\wb.h
+c:\users\sydia\desktop\cmput398-lab-3\libwb\include\wbFile.h
+c:\users\sydia\desktop\cmput398-lab-3\libwb\include\wbPPM.h
+c:\users\sydia\desktop\cmput398-lab-3\libwb\include\wbImage.h
+c:\users\sydia\desktop\cmput398-lab-3\libwb\include\wbImport.h
+c:\users\sydia\desktop\cmput398-lab-3\libwb\include\wbInit.h
+c:\users\sydia\desktop\cmput398-lab-3\libwb\include\wbLogger.h
+c:\users\sydia\desktop\cmput398-lab-3\libwb\include\wbMD5.h
 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\sys/types.h
-c:\users\sydia\desktop\lab3\libwb\include\wbMPI.h
-c:\users\sydia\desktop\lab3\libwb\include\wbSolution.h
-c:\users\sydia\desktop\lab3\libwb\include\wbSparse.h
-c:\users\sydia\desktop\lab3\libwb\include\wbThrust.h
-c:\users\sydia\desktop\lab3\libwb\include\wbTimer.h
-c:\users\sydia\desktop\lab3\libwb\include\wbPath.h
-c:\users\sydia\desktop\lab3\libwb\include\wbDataset.h
+c:\users\sydia\desktop\cmput398-lab-3\libwb\include\wbMPI.h
+c:\users\sydia\desktop\cmput398-lab-3\libwb\include\wbSolution.h
+c:\users\sydia\desktop\cmput398-lab-3\libwb\include\wbSparse.h
+c:\users\sydia\desktop\cmput398-lab-3\libwb\include\wbThrust.h
+c:\users\sydia\desktop\cmput398-lab-3\libwb\include\wbTimer.h
+c:\users\sydia\desktop\cmput398-lab-3\libwb\include\wbPath.h
+c:\users\sydia\desktop\cmput398-lab-3\libwb\include\wbDataset.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include\cuda_runtime.h
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include\device_launch_parameters.h
